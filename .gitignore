@@ -22,6 +22,8 @@
 *.settings
 *.project
 *.mvn
+*.iml
+*.idea
 mvnw
 target
 *.DS_Store
